@@ -29,5 +29,5 @@
 
 ### 🔥 Статистика активности
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical)](https://github.com/senyich)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=radical)](https://github.com/senyich)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senyich&show_icons=true&theme=radical)](https://github.com/senyich)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senyich&layout=compact&theme=radical)](https://github.com/senyich)
