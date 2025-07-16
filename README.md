@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnu-bash&logoColor=white" height="25">
 
 **Frontend:**
+  </br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="25">
@@ -40,8 +41,9 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Twig-000000?logo=twig&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Razor-512BD4?logo=.net&logoColor=white" height="25">
-
+  </br>
 ### 🔥 Activity Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senyich&show_icons=true&theme=radical)](https://github.com/senyich)
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senyich&layout=compact&theme=radical)](https://github.com/senyich)
