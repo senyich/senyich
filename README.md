@@ -11,9 +11,11 @@
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnu-bash&logoColor=white" height="20">
 
 - **Фреймворки и технологии:** 
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white" height="20"> (MVC, Razor Pages, Web API)
-  <img src="https://img.shields.io/badge/EF_Core-512BD4?logo=.net&logoColor=white" height="20">
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white" height="20"> 
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-5C2D91?logo=.net&logoColor=white" height="20">
+  <img src="https://img.shields.io/badge/Razor_Pages-512BD4?logo=.net&logoColor=white" height="20">
   <img src="https://img.shields.io/badge/REST_API-FF6C37?logo=postman&logoColor=white" height="20">
+  <img src="https://img.shields.io/badge/EF_Core-512BD4?logo=.net&logoColor=white" height="20">
   <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white" height="20">
   <img src="https://img.shields.io/badge/Doctrine-000000?logo=doctrine&logoColor=white" height="20">
   <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white" height="20">
