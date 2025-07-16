@@ -7,26 +7,28 @@
 **Backend:**
   </br>
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" height="25">
-  </br>
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnu-bash&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white" height="25"> 
+  </br>
+    <img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/ASP.NET_MVC-5C2D91?logo=.net&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Razor_Pages-512BD4?logo=.net&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/REST_API-FF6C37?logo=postman&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/EF_Core-512BD4?logo=.net&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Doctrine-000000?logo=doctrine&logoColor=white" height="25">
+  </br>
   <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/ODB-000000?logo=odb&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/BeautifulSoup4-000000?logo=python&logoColor=white" height="25">
+  </br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="25">
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnu-bash&logoColor=white" height="25">
 
 **Frontend:**
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25">
