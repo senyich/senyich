@@ -48,6 +48,4 @@
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senyich&layout=compact&theme=radical)](https://github.com/senyich)
 
-### 📊 Language Usage
-
-[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=senyich&layout=pie&theme=radical&langs_count=6)](https://github.com/senyich)
+[![wakatime](https://wakatime.com/badge/user/senyich.svg)](https://wakatime.com/@senyich)
