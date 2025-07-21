@@ -47,3 +47,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senyich&show_icons=true&theme=radical)](https://github.com/senyich)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senyich&layout=compact&theme=radical)](https://github.com/senyich)
+
+### 📊 Language Usage
+
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=senyich&layout=pie&theme=radical&langs_count=6)](https://github.com/senyich)
