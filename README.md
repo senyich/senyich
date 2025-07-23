@@ -22,7 +22,8 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white) 
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?logo=.net&logoColor=white) 
 ![Razor Pages](https://img.shields.io/badge/Razor_Pages-512BD4?logo=.net&logoColor=white) 
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?logo=.net&logoColor=white)  
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?logo=.net&logoColor=white) 
+![NUnit](https://img.shields.io/badge/NUnit-3A8C3D?logo=nunit&logoColor=white)
 
 #### PHP Ecosystem  
 ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white) 
@@ -31,6 +32,10 @@
 
 #### APIs & Tools  
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?logo=postman&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![Telegram API](https://img.shields.io/badge/Telegram_API-26A5E4?logo=telegram&logoColor=white)
+![cURL](https://img.shields.io/badge/cURL-073551?logo=curl&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-000000?logo=python&logoColor=white) 
 ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) 
 ![ODB](https://img.shields.io/badge/ODB-000000?logo=odb&logoColor=white)  
@@ -43,8 +48,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
 
-#### Frameworks  
+#### Frameworks & Tools  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) 
 ![Razor](https://img.shields.io/badge/Razor-512BD4?logo=.net&logoColor=white)  
@@ -53,15 +60,22 @@
 
 #### Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+#### Testing & Performance  
+![Locust](https://img.shields.io/badge/Locust-00CA50?logo=locust&logoColor=white)
+![NUnit](https://img.shields.io/badge/NUnit-3A8C3D?logo=nunit&logoColor=white)
 
 #### Containers  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)  
 
-#### Servers  
+#### Servers & Networking  
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) 
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnu-bash&logoColor=white)  
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnu-bash&logoColor=white) 
+![cURL](https://img.shields.io/badge/cURL-073551?logo=curl&logoColor=white)
 
 #### CI/CD & VCS  
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) 
