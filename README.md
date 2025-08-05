@@ -5,6 +5,7 @@
 - **System Development** (Linux Environments)  
 - **Application Development** (Desktop & Backend)  
 - **Web Scraping & Automation**  
+- **Exploring Web3 Development**  
 
 ---  
 
@@ -16,7 +17,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
 
 #### .NET Ecosystem  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white) 
@@ -30,6 +31,16 @@
 ![Doctrine](https://img.shields.io/badge/Doctrine-000000?logo=doctrine&logoColor=white) 
 ![Twig](https://img.shields.io/badge/Twig-000000?logo=twig&logoColor=white)  
 
+#### C++ Ecosystem  
+![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) 
+![ODB](https://img.shields.io/badge/ODB-000000?logo=odb&logoColor=white)  
+![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
+
+#### TypeScript Ecosystem  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?logo=typeorm&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
 #### APIs & Tools  
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?logo=postman&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
@@ -37,8 +48,15 @@
 ![Telegram API](https://img.shields.io/badge/Telegram_API-26A5E4?logo=telegram&logoColor=white)
 ![cURL](https://img.shields.io/badge/cURL-073551?logo=curl&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-000000?logo=python&logoColor=white) 
-![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) 
-![ODB](https://img.shields.io/badge/ODB-000000?logo=odb&logoColor=white)  
+
+### **Web3 & Blockchain** (Currently Learning)  
+![TRON](https://img.shields.io/badge/TRON-FF060A?logo=tron&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-000000?logo=wagmi&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?logo=ethereum&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?logo=hardhat&logoColor=black)
+![TronWeb](https://img.shields.io/badge/TronWeb-FF060A?logo=tron&logoColor=white)
 
 ### **Frontend**  
 
@@ -75,7 +93,6 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) 
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnu-bash&logoColor=white) 
-![cURL](https://img.shields.io/badge/cURL-073551?logo=curl&logoColor=white)
 
 #### CI/CD & VCS  
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) 
@@ -91,4 +108,4 @@
 
 ---  
 
-**🚀 Proudly using modern stacks and DevOps tools for full-cycle development!**  
+**🚀 Proudly using modern stacks across Web2/Web3 with full DevOps integration!**  
