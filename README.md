@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Arseniy | 17 y.o. Developer  
+# 👋 Hello, I'm Arseniy | 18 y.o. Developer  
 
 ### 🚀 Core Expertise  
 - **Web Development** (Full-Stack)  
