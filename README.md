@@ -75,17 +75,10 @@ I am a passionate 18-year-old developer focused on building high-performance sys
 </p>
 ---
 
-### 🛠 My Skills in Numbers
-<p align="left">
-  <img src="https://img.shields.io/badge/Main_Focus-ASP.NET_Core-512BD4?style=flat&logo=.net" />
-  <img src="https://img.shields.io/badge/Web3-Ethers.js_/_Wagmi-3C3C3D?style=flat&logo=ethereum" />
-  <img src="https://img.shields.io/badge/Systems-C%2B%2B_/_Qt-00599C?style=flat&logo=c%2B%2B" />
-</p>
-
 ### 🤝 Let's Connect
 <p align="left">
-<a href="https://t.me/senyich" target="blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="mailto:arseniy@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://t.me/senyacm" target="blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:senyacm@gmail" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="right">
