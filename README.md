@@ -63,7 +63,7 @@ I am a passionate 18-year-old developer focused on building high-performance sys
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=senyich&theme=radical" alt="Stats" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=senyich&theme=radical" alt="Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senyich&layout=compact&theme=radical&hide=html,css,makefile" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ I am a passionate 18-year-old developer focused on building high-performance sys
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=senyich&theme=radical" alt="GitHub Streak" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=senyich&theme=radical&cache_seconds=86400" alt="GitHub Streak" />
 </p>
 ---
 
