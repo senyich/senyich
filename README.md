@@ -5,7 +5,7 @@
 </p>
 
 ### 🚀 About Me
-I am a passionate 18-year-old developer focused on building high-performance systems and bridge-oriented web applications. I specialize in backend architecture, currently exploring the intersection[...]
+I am a passionate 18-year-old developer focused on building high-performance systems and bridge-oriented web applications. I specialize in backend architecture, currently exploring the intersection of[...]
 
 - 🌍 **Based in:** Barnaul, Russia
 - ⚡ **Core focus:** Backend Architecture, System Programming & DeFi
@@ -63,7 +63,7 @@ I am a passionate 18-year-old developer focused on building high-performance sys
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=senyich&theme=radical" alt="Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=senyich&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senyich&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ I am a passionate 18-year-old developer focused on building high-performance sys
 ### 🤝 Let's Connect
 <p align="left">
 <a href="https://t.me/senyacm" target="blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="mailto:senyacm@gmail" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:senyacm@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="right">
