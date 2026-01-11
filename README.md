@@ -5,7 +5,7 @@
 </p>
 
 ### 🚀 About Me
-I am a passionate 18-year-old developer focused on building high-performance systems and bridge-oriented web applications. I specialize in backend architecture, currently exploring the intersection of **High-Load Web2** and **Decentralized Web3** ecosystems.
+I am a passionate 18-year-old developer focused on building high-performance systems and bridge-oriented web applications. I specialize in backend architecture, currently exploring the intersection[...]
 
 - 🌍 **Based in:** Barnaul, Russia
 - ⚡ **Core focus:** Backend Architecture, System Programming & DeFi
@@ -63,7 +63,7 @@ I am a passionate 18-year-old developer focused on building high-performance sys
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=senyich&theme=radical" alt="Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senyich&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=senyich&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
