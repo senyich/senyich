@@ -62,11 +62,6 @@ I am a passionate 18-year-old developer focused on building high-performance sys
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=senyich&theme=radical" alt="Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senyich&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=senyich&theme=react-dark" alt="Activity Graph" />
 </p>
 
