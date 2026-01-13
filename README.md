@@ -25,11 +25,19 @@ I am a passionate 18-year-old developer focused on building high-performance sys
 *   **Cybersecurity Research & Penetration Testing**: Practical experience in CTF challenges, involving vulnerability analysis, exploit writing, and automation of security assessment tools to deepen understanding of system vulnerabilities.
   
 ---
-### My Actual Projects
+### 🛠️ My Latest Projects
 
-[CEX Rest .Net Library](https://github.com/senyich/CryptoRestLibrary.git).
-[Hybrid exchange on Sepolia](https://github.com/senyich/HybridWeb3Exchange.git).
-[CTF Automatization C# Script, selenium scrapping](https://github.com/senyich/C-selenium-exploit)
+*   **CEX Rest .NET Library** | `C#` `.NET` `REST API`
+    *   A lightweight, type-safe library for interacting with centralized exchange APIs.
+    *   [GitHub](https://github.com/senyich/CryptoRestLibrary.git)
+
+*   **Hybrid Exchange (Sepolia Testnet)** | `Solidity` `Nethereum` `Wagmi` `Viem` `TypeScript` `React`
+    *   A decentralized exchange prototype featuring hybrid order books, deployed on the Sepolia network.
+    *   [GitHub](https://github.com/senyich/HybridWeb3Exchange.git)
+
+*   **CTF Automation & Exploit Toolkit** | `C#` `Selenium` `Automation`
+    *   A custom framework for automating reconnaissance and exploit tasks in Capture The Flag competitions.
+    *   [GitHub](https://github.com/senyich/C-selenium-exploit)
 
 ### 📊 Professional Insights & Activity
 
