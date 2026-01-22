@@ -31,12 +31,12 @@ I am a passionate 18-year-old developer focused on building high-performance sys
     *   A lightweight, type-safe library for interacting with centralized exchange APIs.
     *   [GitHub](https://github.com/senyich/CryptoRestLibrary.git)
 
-*   **Hybrid Exchange (Sepolia Testnet)** | `Solidity` `Nethereum` `Wagmi` `Viem` `TypeScript` `React`
+*   **Hybrid Exchange (On Sepolia Testnet)** | `Solidity` `Nethereum` `Wagmi` `Viem` `TypeScript` `React`
     *   A decentralized exchange prototype featuring hybrid order books, deployed on the Sepolia network.
     *   [GitHub](https://github.com/senyich/HybridWeb3Exchange.git)
 
 *   **CTF Automation & Exploit Toolkit** | `C#` `Selenium` `Automation`
-    *   A custom framework for automating reconnaissance and exploit tasks in Capture The Flag competitions.
+    *   A selenium parsing script for automating reconnaissance and exploit tasks in Capture The Flag competitions.
     *   [GitHub](https://github.com/senyich/C-selenium-exploit)
 
 ### 📊 Professional Insights & Activity
